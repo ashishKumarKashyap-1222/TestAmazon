@@ -1,0 +1,662 @@
+[
+  {
+    "_id": "324173",
+    "type": "simple",
+    "group_id": "4772139204791",
+    "container_id": "4772139204791",
+    "title": "HP Pavilion (2021) Intel 11th Gen Core i5 14 inches FHD Screen Thin & Light Laptop, 16GB RAM, 512GB SSD, Iris Xe Graphics, Windows 11, MS Office, Backlit Keyboard, 1.41kg, Natural Silver (14-dv0054TU)",
+    "brand": "automationtesting",
+    "product_type": "Shirts",
+    "description": "<p>Shirtswala</p>",
+    "handle": "shirt",
+    "tags": "",
+    "template_suffix": null,
+    "main_image": null,
+    "published_at": "2020-10-05T05:43:29Z",
+    "created_at": "2021-08-05 08:46:24",
+    "updated_at": "2021-08-05T08:46:24+0000",
+    "variant_attributes": ["Size", "Color"],
+    "variant_title": "40 / Blue",
+    "position": 3,
+    "sku": "123458",
+    "price": 1000,
+    "compare_at_price": null,
+    "quantity": 11,
+    "weight": 0.1,
+    "weight_unit": "KILOGRAMS",
+    "grams": 100,
+    "barcode": "",
+    "inventory_policy": "CONTINUE",
+    "taxable": true,
+    "fulfillment_service": "manual",
+    "variant_image": null,
+    "Size": "40",
+    "Color": "Blue",
+    "inventory_item_id": "34038259679415",
+    "inventory_tracked": true,
+    "requires_shipping": true,
+    "locations": [
+      {
+        "admin_graphql_api_id": "gid://shopify/InventoryLevel/70877053111?inventory_item_id=34038259679415",
+        "updated_at": "2020-10-05T05:43:30Z",
+        "available": 11,
+        "location_id": "36600381623",
+        "inventory_item_id": "34038259679415"
+      }
+    ],
+    "user_id": "61029a1d11772268357a6a84",
+    "source_product_id": "32441353371831",
+    "is_imported": 1,
+    "visibility": "Not Visible Individually",
+    "app_codes": ["amazon_sales_channel"],
+    "shop_id": "227",
+    "source_marketplace": "shopify",
+    "additional_images": [],
+    "profile": [],
+    "marketplace": {
+      "amazon": [
+        {
+          "shop_id": "309",
+          "process_tags": [
+            "Upload product in progress",
+            "Image sync in progress",
+            "Inventory sync in progress"
+          ],
+          "seller_id": "A3VSMOL1YWESR0",
+          "error": {},
+          "status": "Active"
+        }
+      ]
+    },
+    "low_sku": "123458"
+  },
+  {
+    "_id": "324174",
+    "type": "simple",
+    "group_id": "4772139204791",
+    "container_id": "4772139204791",
+    "title": "HP Pavilion (2021) Intel 11th Gen Core i5 14 inches FHD Screen Thin & Light Laptop, 16GB RAM, 512GB SSD, Iris Xe Graphics, Windows 11, MS Office, Backlit Keyboard, 1.41kg, Natural Silver (14-dv0054TU)",
+    "brand": "automationtesting",
+    "product_type": "Shirts",
+    "description": "<p>Shirtswala</p>",
+    "handle": "shirt",
+    "tags": "",
+    "template_suffix": null,
+    "main_image": null,
+    "published_at": "2020-10-05T05:43:29Z",
+    "created_at": "2021-08-05 08:46:24",
+    "updated_at": "2021-08-05T08:46:24+0000",
+    "variant_attributes": ["Size", "Color"],
+    "variant_title": "40 / Black",
+    "position": 4,
+    "sku": "123459",
+    "price": 1000,
+    "compare_at_price": null,
+    "quantity": 11,
+    "weight": 0.1,
+    "weight_unit": "KILOGRAMS",
+    "grams": 100,
+    "barcode": "",
+    "inventory_policy": "DENY",
+    "taxable": true,
+    "fulfillment_service": "manual",
+    "variant_image": null,
+    "Size": "40",
+    "Color": "Black",
+    "inventory_item_id": "34038259712183",
+    "inventory_tracked": true,
+    "requires_shipping": true,
+    "locations": [
+      {
+        "admin_graphql_api_id": "gid://shopify/InventoryLevel/70877053111?inventory_item_id=34038259712183",
+        "updated_at": "2020-10-05T05:43:30Z",
+        "available": 11,
+        "location_id": "36600381623",
+        "inventory_item_id": "34038259712183"
+      }
+    ],
+    "user_id": "61029a1d11772268357a6a84",
+    "source_product_id": "32441353404599",
+    "is_imported": 1,
+    "visibility": "Not Visible Individually",
+    "app_codes": ["amazon_sales_channel"],
+    "shop_id": "227",
+    "source_marketplace": "shopify",
+    "additional_images": [],
+    "profile": [],
+    "marketplace": {
+      "amazon": [
+        {
+          "shop_id": "309",
+          "process_tags": [
+            "Upload product in progress",
+            "Image sync in progress",
+            "Inventory sync in progress"
+          ],
+          "seller_id": "A3VSMOL1YWESR0",
+          "error": {},
+          "status": "Active"
+        }
+      ]
+    },
+    "low_sku": "123459"
+  },
+  {
+    "_id": "324175",
+    "type": "simple",
+    "container_id": "4772139237559",
+    "title": "HP Pavilion (2021) Intel 11th Gen Core i5 14 inches FHD Screen Thin & Light Laptop, 16GB RAM, 512GB SSD, Iris Xe Graphics, Windows 11, MS Office, Backlit Keyboard, 1.41kg, Natural Silver (14-dv0054TU)",
+    "brand": "Earrings#$%",
+    "product_type": "Supply @#$%",
+    "description": "Description@#$%^&amp;*()\"\"/|?.;:+&gt;&lt;={}[]~",
+    "handle": "shorts-1",
+    "tags": "",
+    "template_suffix": null,
+    "main_image": null,
+    "published_at": "2020-10-05T05:43:31Z",
+    "created_at": "2021-08-05 08:46:24",
+    "updated_at": "2021-08-05T08:46:24+0000",
+    "variant_title": "Default Title",
+    "position": 1,
+    "sku": "254818",
+    "price": 5520,
+    "compare_at_price": null,
+    "quantity": 25,
+    "weight": 2.5,
+    "weight_unit": "KILOGRAMS",
+    "grams": 2500,
+    "barcode": "359955204982",
+    "inventory_policy": "DENY",
+    "taxable": true,
+    "fulfillment_service": "manual",
+    "variant_image": null,
+    "inventory_item_id": "34038259744951",
+    "inventory_tracked": true,
+    "requires_shipping": true,
+    "locations": [
+      {
+        "admin_graphql_api_id": "gid://shopify/InventoryLevel/70877053111?inventory_item_id=34038259744951",
+        "updated_at": "2020-10-05T05:43:31Z",
+        "available": 25,
+        "location_id": "36600381623",
+        "inventory_item_id": "34038259744951"
+      }
+    ],
+    "user_id": "61029a1d11772268357a6a84",
+    "source_product_id": "32441353437367",
+    "is_imported": 1,
+    "visibility": "Catalog and Search",
+    "app_codes": ["amazon_sales_channel"],
+    "shop_id": "227",
+    "source_marketplace": "shopify",
+    "additional_images": [],
+    "variant_attributes": [],
+    "profile": [],
+    "marketplace": {
+      "amazon": [
+        {
+          "shop_id": "309",
+          "error": {},
+          "process_tags": [
+            "Product update in progress",
+            "Image sync in progress",
+            "Price sync in progress",
+            "Inventory sync in progress"
+          ],
+          "seller_id": "A3VSMOL1YWESR0",
+          "status": "Active"
+        }
+      ]
+    },
+    "low_sku": "254818"
+  },
+  {
+    "_id": "324176",
+    "type": "simple",
+    "container_id": "4772139270327",
+    "title": "HP Pavilion (2021) Intel 11th Gen Core i5 14 inches FHD Screen Thin & Light Laptop, 16GB RAM, 512GB SSD, Iris Xe Graphics, Windows 11, MS Office, Backlit Keyboard, 1.41kg, Natural Silver (14-dv0054TU)",
+    "brand": "taps",
+    "product_type": "taps",
+    "description": "<p>taps</p>",
+    "handle": "taps",
+    "tags": "",
+    "template_suffix": null,
+    "main_image": null,
+    "published_at": "2020-10-05T05:43:31Z",
+    "created_at": "2021-08-05 08:46:24",
+    "updated_at": "2021-08-05T08:46:24+0000",
+    "variant_title": "Default Title",
+    "position": 1,
+    "sku": "",
+    "price": 100,
+    "compare_at_price": null,
+    "quantity": 12,
+    "weight": 1,
+    "weight_unit": "KILOGRAMS",
+    "grams": 1000,
+    "barcode": "",
+    "inventory_policy": "DENY",
+    "taxable": true,
+    "fulfillment_service": "manual",
+    "variant_image": null,
+    "inventory_item_id": "34038259777719",
+    "inventory_tracked": true,
+    "requires_shipping": true,
+    "locations": [
+      {
+        "admin_graphql_api_id": "gid://shopify/InventoryLevel/70877053111?inventory_item_id=34038259777719",
+        "updated_at": "2020-10-05T05:43:32Z",
+        "available": 12,
+        "location_id": "36600381623",
+        "inventory_item_id": "34038259777719"
+      }
+    ],
+    "user_id": "61029a1d11772268357a6a84",
+    "source_product_id": "32441353470135",
+    "is_imported": 1,
+    "visibility": "Catalog and Search",
+    "app_codes": ["amazon_sales_channel"],
+    "shop_id": "227",
+    "source_marketplace": "shopify",
+    "additional_images": [],
+    "variant_attributes": [],
+    "profile": [],
+    "marketplace": {
+      "amazon": [
+        {
+          "shop_id": "309",
+          "process_tags": [
+            "Product update in progress",
+            "Price sync in progress",
+            "Inventory sync in progress",
+            "Image sync in progress"
+          ],
+          "seller_id": "A3VSMOL1YWESR0",
+          "status": "Active",
+          "error": {}
+        }
+      ]
+    },
+    "low_sku": ""
+  },
+  {
+    "_id": "324177",
+    "type": "simple",
+    "container_id": "4772139303095",
+    "title": "HP Pavilion (2021) Intel 11th Gen Core i5 14 inches FHD Screen Thin & Light Laptop, 16GB RAM, 512GB SSD, Iris Xe Graphics, Windows 11, MS Office, Backlit Keyboard, 1.41kg, Natural Silver (14-dv0054TU)",
+    "brand": "tshirts",
+    "product_type": "tshirts",
+    "description": "<p>tshirts</p>",
+    "handle": "tshirts",
+    "tags": "",
+    "template_suffix": null,
+    "main_image": null,
+    "published_at": "2021-07-02T13:18:43Z",
+    "created_at": "2021-08-05 08:46:24",
+    "updated_at": "2021-08-05T08:46:24+0000",
+    "variant_title": "Default Title",
+    "position": 1,
+    "sku": "",
+    "price": 1000,
+    "compare_at_price": null,
+    "quantity": 10,
+    "weight": 1,
+    "weight_unit": "KILOGRAMS",
+    "grams": 1000,
+    "barcode": "",
+    "inventory_policy": "DENY",
+    "taxable": true,
+    "fulfillment_service": "manual",
+    "variant_image": null,
+    "inventory_item_id": "34038259810487",
+    "inventory_tracked": true,
+    "requires_shipping": true,
+    "locations": [
+      {
+        "admin_graphql_api_id": "gid://shopify/InventoryLevel/70877053111?inventory_item_id=34038259810487",
+        "updated_at": "2020-10-05T05:43:33Z",
+        "available": 10,
+        "location_id": "36600381623",
+        "inventory_item_id": "34038259810487"
+      }
+    ],
+    "user_id": "61029a1d11772268357a6a84",
+    "source_product_id": "32441353502903",
+    "is_imported": 1,
+    "visibility": "Catalog and Search",
+    "app_codes": ["amazon_sales_channel"],
+    "shop_id": "227",
+    "source_marketplace": "shopify",
+    "additional_images": [],
+    "variant_attributes": [],
+    "marketplace": {
+      "amazon": [
+        {
+          "shop_id": "309",
+          "process_tags": [
+            "Product update in progress",
+            "Price sync in progress",
+            "Inventory sync in progress",
+            "Image sync in progress"
+          ],
+          "seller_id": "A3VSMOL1YWESR0",
+          "status": "Active",
+          "error": {
+            "price": [
+              "This SKU is not in the Amazon catalog. If you are receiving this message after submitting a multi-marketplace inventory file and the designated marketplace for this error is different than the marketplace in which you submitted your file, this error is an indication that the Detail page for this item does not exist in the designated marketplace. Amazon is attempting to create the Detail Page for this item on your behalf. If successful, your listing will be created in the designated marketplace within 48 hours."
+            ],
+            "product": [
+              "90057 : The Item Condition field contains an invalid value: 5675. To correct this error, choose from the valid set of values.",
+              "90057 : The Contains Liquid Contents? field contains an invalid value: simple. To correct this error, choose from the valid set of values.",
+              "90057 : The Country Of Origin field contains an invalid value: simple. To correct this error, choose from the valid set of values.",
+              "90057 : The Currency field contains an invalid value: simple. To correct this error, choose from the valid set of values.",
+              "90057 : The Has Expiration date field contains an invalid value: tshirts. To correct this error, choose from the valid set of values.",
+              "90111 : The List Price field contains an invalid value: null. The value \"KILOGRAMS\" is not a valid DECIMAL.",
+              "90111 : The Maximum Retail Price field contains an invalid value: KILOGRAMS. The value \"KILOGRAMS\" is not a valid DECIMAL.",
+              "90111 : The Number of Boxes field contains an invalid value: manual. The value \"manual\" is not a valid INTEGER.",
+              "90111 : The Number of Items field contains an invalid value: DENY. The value \"DENY\" is not a valid INTEGER.",
+              "97778 : Invalid HSN Code.Please enter a 4, 6 or 8 digit value.: [HSN Code = \"tshirts\"]."
+            ]
+          }
+        }
+      ]
+    },
+    "low_sku": ""
+  },
+  {
+    "_id": "324178",
+    "type": "simple",
+    "container_id": "4772139335863",
+    "title": "HP Pavilion (2021) Intel 11th Gen Core i5 14 inches FHD Screen Thin & Light Laptop, 16GB RAM, 512GB SSD, Iris Xe Graphics, Windows 11, MS Office, Backlit Keyboard, 1.41kg, Natural Silver (14-dv0054TU)",
+    "brand": "tshirts",
+    "product_type": "tshirts",
+    "description": "<p>tshirts</p>",
+    "handle": "tshirts-1",
+    "tags": "",
+    "template_suffix": null,
+    "main_image": null,
+    "published_at": "2021-07-02T13:18:43Z",
+    "created_at": "2021-08-05 08:46:24",
+    "updated_at": "2021-08-05T08:46:24+0000",
+    "variant_title": "Default Title",
+    "position": 1,
+    "sku": "",
+    "price": 1000,
+    "compare_at_price": null,
+    "quantity": 10,
+    "weight": 1,
+    "weight_unit": "KILOGRAMS",
+    "grams": 1000,
+    "barcode": "",
+    "inventory_policy": "DENY",
+    "taxable": true,
+    "fulfillment_service": "manual",
+    "variant_image": null,
+    "inventory_item_id": "34038259843255",
+    "inventory_tracked": true,
+    "requires_shipping": true,
+    "locations": [
+      {
+        "admin_graphql_api_id": "gid://shopify/InventoryLevel/70877053111?inventory_item_id=34038259843255",
+        "updated_at": "2020-10-05T05:43:33Z",
+        "available": 10,
+        "location_id": "36600381623",
+        "inventory_item_id": "34038259843255"
+      }
+    ],
+    "user_id": "61029a1d11772268357a6a84",
+    "source_product_id": "32441353535671",
+    "is_imported": 1,
+    "visibility": "Catalog and Search",
+    "app_codes": ["amazon_sales_channel"],
+    "shop_id": "227",
+    "source_marketplace": "shopify",
+    "additional_images": [],
+    "variant_attributes": [],
+    "marketplace": {
+      "amazon": [
+        {
+          "shop_id": "309",
+          "process_tags": [
+            "Price sync in progress",
+            "Inventory sync in progress",
+            "Image sync in progress"
+          ],
+          "seller_id": "A3VSMOL1YWESR0",
+          "status": "Active",
+          "error": {
+            "product": [
+              "Category is not assigned, please edit the product and assign category."
+            ]
+          }
+        }
+      ]
+    },
+    "low_sku": ""
+  },
+  {
+    "_id": "324179",
+    "type": "simple",
+    "container_id": "4772139368631",
+    "title": "HP Pavilion (2021) Intel 11th Gen Core i5 14 inches FHD Screen Thin & Light Laptop, 16GB RAM, 512GB SSD, Iris Xe Graphics, Windows 11, MS Office, Backlit Keyboard, 1.41kg, Natural Silver (14-dv0054TU)",
+    "brand": "tshirts",
+    "product_type": "tshirts",
+    "description": "<p>tshirts</p>",
+    "handle": "tshirts-2",
+    "tags": "",
+    "template_suffix": null,
+    "main_image": null,
+    "published_at": "2021-07-02T13:18:42Z",
+    "created_at": "2021-08-05 08:46:25",
+    "updated_at": "2021-08-05T08:46:24+0000",
+    "variant_title": "Default Title",
+    "position": 1,
+    "sku": "",
+    "price": 1000,
+    "compare_at_price": null,
+    "quantity": 10,
+    "weight": 1,
+    "weight_unit": "KILOGRAMS",
+    "grams": 1000,
+    "barcode": "",
+    "inventory_policy": "DENY",
+    "taxable": true,
+    "fulfillment_service": "manual",
+    "variant_image": null,
+    "inventory_item_id": "34038259876023",
+    "inventory_tracked": true,
+    "requires_shipping": true,
+    "locations": [
+      {
+        "admin_graphql_api_id": "gid://shopify/InventoryLevel/70877053111?inventory_item_id=34038259876023",
+        "updated_at": "2020-10-05T05:43:34Z",
+        "available": 10,
+        "location_id": "36600381623",
+        "inventory_item_id": "34038259876023"
+      }
+    ],
+    "user_id": "61029a1d11772268357a6a84",
+    "source_product_id": "32441353568439",
+    "is_imported": 1,
+    "visibility": "Catalog and Search",
+    "app_codes": ["amazon_sales_channel"],
+    "shop_id": "227",
+    "source_marketplace": "shopify",
+    "additional_images": [],
+    "variant_attributes": [],
+    "marketplace": {
+      "amazon": [
+        {
+          "shop_id": "309",
+          "process_tags": [
+            "Price sync in progress",
+            "Inventory sync in progress",
+            "Image sync in progress"
+          ],
+          "seller_id": "A3VSMOL1YWESR0",
+          "status": "Active",
+          "error": {
+            "product": [
+              "Category is not assigned, please edit the product and assign category."
+            ]
+          }
+        }
+      ]
+    },
+    "low_sku": ""
+  },
+  {
+    "_id": "324180",
+    "type": "simple",
+    "container_id": "6852151574711",
+    "title": "HP Pavilion (2021) Intel 11th Gen Core i5 14 inches FHD Screen Thin & Light Laptop, 16GB RAM, 512GB SSD, Iris Xe Graphics, Windows 11, MS Office, Backlit Keyboard, 1.41kg, Natural Silver (14-dv0054TU)",
+    "brand": "product",
+    "product_type": "digital",
+    "description": "<p>product</p>",
+    "handle": "digital-product",
+    "tags": "product",
+    "template_suffix": null,
+    "main_image": null,
+    "published_at": "2021-07-02T13:18:42Z",
+    "created_at": "2021-08-05 08:46:25",
+    "updated_at": "2021-08-05T08:46:25+0000",
+    "variant_title": "Default Title",
+    "position": 1,
+    "sku": "deny",
+    "price": 0,
+    "compare_at_price": null,
+    "quantity": 0,
+    "weight": 0,
+    "weight_unit": "KILOGRAMS",
+    "grams": 0,
+    "barcode": "kg",
+    "inventory_policy": "DENY",
+    "taxable": false,
+    "fulfillment_service": "manual",
+    "variant_image": null,
+    "inventory_item_id": "42262013837495",
+    "inventory_tracked": false,
+    "requires_shipping": true,
+    "locations": [
+      {
+        "admin_graphql_api_id": "gid://shopify/InventoryLevel/70877053111?inventory_item_id=42262013837495",
+        "updated_at": "2021-07-02T07:01:20Z",
+        "available": 0,
+        "location_id": "36600381623",
+        "inventory_item_id": "42262013837495"
+      }
+    ],
+    "user_id": "61029a1d11772268357a6a84",
+    "source_product_id": "40166496960695",
+    "is_imported": 1,
+    "visibility": "Catalog and Search",
+    "app_codes": ["amazon_sales_channel"],
+    "shop_id": "227",
+    "source_marketplace": "shopify",
+    "additional_images": [],
+    "variant_attributes": [],
+    "marketplace": {
+      "amazon": [
+        {
+          "shop_id": "309",
+          "error": {
+            "product": [
+              "Category is not assigned, please edit the product and assign category."
+            ],
+            "price": [
+              "The Message/Price/StandardPrice field contains an invalid value: 0. The value \"0\" is lower than the minimum allowed: 0.01.",
+              "The Message/Price/StandardPrice field contains an invalid value: 0. The value \"0\" is lower than the minimum allowed: 0.01.",
+              "The Message/Price/StandardPrice field contains an invalid value: 0. The value \"0\" is lower than the minimum allowed: 0.01.",
+              "The Message/Price/StandardPrice field contains an invalid value: 0. The value \"0\" is lower than the minimum allowed: 0.01.",
+              "The Message/Price/StandardPrice field contains an invalid value: 0. The value \"0\" is lower than the minimum allowed: 0.01.",
+              "The Message/Price/StandardPrice field contains an invalid value: 0. The value \"0\" is lower than the minimum allowed: 0.01."
+            ]
+          },
+          "process_tags": [
+            "Image sync in progress",
+            "Price sync in progress",
+            "Inventory sync in progress"
+          ],
+          "seller_id": "A3VSMOL1YWESR0",
+          "status": "Active"
+        }
+      ]
+    },
+    "low_sku": "deny"
+  },
+  {
+    "_id": "324181",
+    "type": "simple",
+    "container_id": "6852151640247",
+    "title": "HP Pavilion (2021) Intel 11th Gen Core i5 14 inches FHD Screen Thin & Light Laptop, 16GB RAM, 512GB SSD, Iris Xe Graphics, Windows 11, MS Office, Backlit Keyboard, 1.41kg, Natural Silver (14-dv0054TU)",
+    "brand": "checkvariant1",
+    "product_type": "",
+    "description": "<p>25852</p>",
+    "handle": "checkvariant1",
+    "tags": "true",
+    "template_suffix": null,
+    "main_image": null,
+    "published_at": "2021-07-02T13:18:41Z",
+    "created_at": "2021-08-05 08:46:25",
+    "updated_at": "2021-08-05T08:46:25+0000",
+    "variant_title": "Default Title",
+    "position": 1,
+    "sku": "true",
+    "price": 0,
+    "compare_at_price": null,
+    "quantity": 0,
+    "weight": 0,
+    "weight_unit": "KILOGRAMS",
+    "grams": 0,
+    "barcode": null,
+    "inventory_policy": "DENY",
+    "taxable": false,
+    "fulfillment_service": "manual",
+    "variant_image": null,
+    "inventory_item_id": "42262013903031",
+    "inventory_tracked": false,
+    "requires_shipping": true,
+    "locations": [
+      {
+        "admin_graphql_api_id": "gid://shopify/InventoryLevel/70877053111?inventory_item_id=42262013903031",
+        "updated_at": "2021-07-02T07:01:21Z",
+        "available": 0,
+        "location_id": "36600381623",
+        "inventory_item_id": "42262013903031"
+      }
+    ],
+    "user_id": "61029a1d11772268357a6a84",
+    "source_product_id": "40166497026231",
+    "is_imported": 1,
+    "visibility": "Catalog and Search",
+    "app_codes": ["amazon_sales_channel"],
+    "shop_id": "227",
+    "source_marketplace": "shopify",
+    "additional_images": [],
+    "variant_attributes": [],
+    "marketplace": {
+      "amazon": [
+        {
+          "shop_id": "309",
+          "error": {
+            "product": [
+              "Category is not assigned, please edit the product and assign category."
+            ],
+            "price": [
+              "The Message/Price/StandardPrice field contains an invalid value: 0. The value \"0\" is lower than the minimum allowed: 0.01.",
+              "The Message/Price/StandardPrice field contains an invalid value: 0. The value \"0\" is lower than the minimum allowed: 0.01."
+            ]
+          },
+          "process_tags": [
+            "Inventory sync in progress",
+            "Image sync in progress",
+            "Price sync in progress"
+          ],
+          "seller_id": "A3VSMOL1YWESR0",
+          "status": "Active"
+        }
+      ]
+    },
+    "low_sku": "true"
+  }
+]
